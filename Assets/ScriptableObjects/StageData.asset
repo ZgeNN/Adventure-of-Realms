@@ -16,16 +16,16 @@ MonoBehaviour:
   - time: 5
     message: Stage 1 Completed
     enemyToSpawn: {fileID: 7113206072813748919, guid: 035ec5d1bd955034c92b6cd6e87f33fa, type: 3}
-    count: 10
+    count: 20
   - time: 20
     message: Stage 2 Completed
     enemyToSpawn: {fileID: 7113206072813748919, guid: 1007aea247d644842b63f2d38e5495dd, type: 3}
-    count: 5
+    count: 10
   - time: 45
     message: Stage 3 Completed
     enemyToSpawn: {fileID: 7113206072813748919, guid: 5bed31514638eeb47a22b7912060dd85, type: 3}
     count: 5
-  - time: 80
+  - time: 100
     message: Stage 4 Completed
-    enemyToSpawn: {fileID: 5141221071931265098, guid: 463c593189a3b6b43b24013039ab8422, type: 3}
+    enemyToSpawn: {fileID: 1536421482685479758, guid: 5b8af50b53fe7b241a36045aa0ec506a, type: 3}
     count: 2

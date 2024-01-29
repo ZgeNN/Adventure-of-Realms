@@ -36,7 +36,7 @@ public class StageEventManager : MonoBehaviour
             eventIndex += 1;
         }
 
-        if (eventIndex==3)
+        if (eventIndex==4)
         {
             eventIndex = 0;
             stageTime.stageTime = 0;
